@@ -26,33 +26,33 @@ Java is a programming language and computing platform first released by Sun Micr
 
 ## JavaScript (Node.js)
 
-JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+JavaScript, often abbreviated as JS, is a programming language that conforms to the **ECMAScript** specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
-Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser. While JavaScript can be used with other runtime environments such as Deno (an up and coming runtime environment), it is not widely adopted and JavaScript *usually* comes with Node.js.
+Node.js is an **open-source**, **cross-platform**, JavaScript runtime environment that executes JavaScript code outside a web browser. While JavaScript can be used with other runtime environments such as **Deno** (an up and coming runtime environment), it is not widely adopted and JavaScript *usually* comes with Node.js.
 
 ## Kotlin
 
-Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of its standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
+**Kotlin** is a **cross-platform**, **statically typed**, **general-purpose** programming language with type inference. Kotlin is designed to interoperate fully with Java, and the **JVM** version of its standard library depends on the Java Class Library, but type inference allows its **syntax** to be more concise.
 
 ## Objective-C
 
-Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language.
+Objective-C is a **general-purpose**, **object-oriented** programming language that adds **Smalltalk-style** messaging to the C programming language.
 
 ## Python
 
-Python is an interpreted, high-level, general-purpose programming language.
+Python is an **interpreted**, **high-level**, **general-purpose** programming language.
 
 ## Ruby
 
-Ruby is an interpreted, high-level, general-purpose programming language.
+Ruby is an **interpreted**, **high-level**, **general-purpose** programming language.
 
 ## Rust
 
-Rust is a multi-paradigm programming language focused on performance and safety, especially safe concurrency.
+Rust is a **multi-paradigm** programming language focused on performance and safety, especially safe **concurrency**.
 
 ## Swift
 
-Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple.
+Swift is a **general-purpose**, **multi-paradigm**, **compiled** programming language developed by Apple.
 
 ## Syntax
 
