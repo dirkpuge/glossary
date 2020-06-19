@@ -1,5 +1,9 @@
 # Miscellaneous 
 
+## Agile
+
+Agile software development comprises various approaches to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer/end user.
+
 ## API
 
 The term API is an acronym, and it stands for “Application Programming Interface.” It is a **transportation layer** for creating requests and moving data.
@@ -8,9 +12,17 @@ The term API is an acronym, and it stands for “Application Programming Interfa
 
 Also known as "business logic" defines specific instructions or constraints on how certain day-to-day actions should be performed. Such as a decision-making approval structure for invoice processing where only certain managers can sign off on invoices totaling a specific amount, or calculations in which a formula may be used to calculate revenue or expenses.
 
+## Cloud Computing
+
+Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.
+
 ## Command Line Tool
 
 Also known as command line interface (CLI) is a text-based **user interface** used to view and manage computer files, use an API, access a database or other tools.
+
+## CRM
+
+Stands for customer relationship management and generally relates to tools for customer support and success.
 
 ## Data Store
 
@@ -19,6 +31,10 @@ A datastore is a **repository** for persistently storing and managing collection
 ## Databases
 
 A database is an organized collection of structured information, or data. A database not only stores data, but **makes the data accessible to users**, for example with **queries**. [More details](https://www.quora.com/What-is-the-difference-between-data-store-and-data-base/answer/Florian-Goossens).
+
+## Incident 
+
+An Incident is defined as an unplanned interruption or reduction in quality of an IT service (a Service Interruption).
 
 ## Infrastructure
 
@@ -35,6 +51,10 @@ It refers to a system for **moving data from one system** to another.
 ## Reliable (software systems)
 
 Ability of a computer program to perform its intended functions and operations in a system's **environment**, without experiencing **failure**.
+
+## Self Hosting
+
+Self Hosting is a form of running your own website or application by setting up a server and network yourself.
 
 ## Scalable (software systems)
 
