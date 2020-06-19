@@ -12,6 +12,10 @@ ARM is a family of reduced **[instruction set](https://github.com/non-binary/glo
 
 CPUs, or Central Processing Units, are responsible for processing and executing instructions.
 
+## Headless Mode
+
+A headless server is a computing device without a local interface that is dedicated to providing services to other computers and their users. Headless, in this context, basically means that the computing device has no monitor or peripherals, such as a keyboard and mouse.
+
 ## I/O
 
 Any movement of data between **[disk](https://github.com/non-binary/glossary/blob/main/hardware.md#storage)** and **[memory](https://github.com/non-binary/glossary/blob/main/hardware.md#memory)**.
@@ -38,7 +42,7 @@ A reduced instruction set computer, or RISC, is a computer instruction set that 
 
 ## Server
 
-A server is a computer that is dedicated to managing network resources.
+A server is a computer that is dedicated to managing network resources. Typically run in **[headless mode](https://github.com/non-binary/glossary/blob/main/hardware.md#headless-mode)**.
 
 ## Storage
 
