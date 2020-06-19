@@ -48,10 +48,6 @@ An Incident is defined as an unplanned interruption or reduction in quality of a
 
 Infrastructure is the foundation or framework that supports a system or organization. For example, the system of **hardware**, **software**, facilities and service components that support the delivery of business systems and IT-enabled processes.
 
-## Operations
-
-Operations is a term that encompasses all the activities involved in the setup, design, **configuration**, **deployment** and maintenance of the infrastructure that supports business services.
-
 ## Data Pipelines
 
 It refers to a system for **moving data from one system** to another.
@@ -59,6 +55,10 @@ It refers to a system for **moving data from one system** to another.
 ## Monitoring Service
 
 Monitoring as a service (MaaS) is one of many cloud computing delivery models under anything as a service (XaaS). It is a framework that facilitates the deployment of monitoring functionalities for various other services and applications within the cloud.
+
+## Operations
+
+Operations is a term that encompasses all the activities involved in the setup, design, **configuration**, **deployment** and maintenance of the infrastructure that supports business services.
 
 ## Open Source
 
