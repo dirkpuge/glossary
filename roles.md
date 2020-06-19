@@ -30,7 +30,7 @@ A front-end engineer, also web developer or web designer, selects the tools, bui
 
 ### Back-end Developer/Engineer
 
-A back-end engineer, also referred to as X engineer for whichever component they are working on (i.e. CI/CD back-end engineer could be a Build Engineer) work on the **server** components** of **web apps**. They focus on **web services** and the **data store** (data modelling and **databases). They may also be involved with **business rule implementation logic**. Basically, they are responsible for implementing what you do not see in a **web app**.
+A back-end engineer, also referred to as X engineer for whichever component they are working on (i.e. CI/CD back-end engineer could be a Build Engineer) work on the **server** components** of **web apps**. They focus on **web services** and the **data store** (data modelling and **databases**). They may also be involved with **business rule implementation logic**. Basically, they are responsible for implementing what you do not see in a **web app**.
 
 ### Full-stack Developer/Engineer
 
