@@ -32,6 +32,18 @@ Linux is a family of open source **Unix-like** operating systems based on the **
 
 The Linux kernel is the main component of a Linux operating system and is the core interface between a computer's hardware and its **processes**.
 
+## macOS
+
+macOS is a series of proprietary graphical operating systems developed and marketed by Apple, based on **Darwin**.
+
+## Memory Model
+
+A memory model describes the interactions of threads through memory and their shared use of the data.
+
+## Operating System
+
+An operating system is the software that supports a computer's basic functions, such as scheduling tasks, executing applications, and controlling peripherals.
+
 ## Ubuntu
 
 Ubuntu is a **Linux distribution** based on **Debian** mostly composed of free and **open-source** software.
@@ -51,14 +63,6 @@ A virtual machine is an **emulation** of a computer system. Virtual machines are
 ## iOS 
 
 iOS is a mobile operating system created and developed by Apple Inc. exclusively for its hardware.
-
-## macOS
-
-macOS is a series of proprietary graphical operating systems developed and marketed by Apple, based on **Darwin**.
-
-## Memory Model
-
-A memory model describes the interactions of threads through memory and their shared use of the data.
 
 ## Windows
 
