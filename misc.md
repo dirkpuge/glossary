@@ -36,6 +36,10 @@ A database is an organized collection of structured information, or data. A data
 
 DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
 
+## Emulation
+
+Emulation or an emulator is hardware or software that enables one computer system (called the host) to behave like another computer system (called the guest).
+
 ## Incident 
 
 An Incident is defined as an unplanned interruption or reduction in quality of an IT service (a Service Interruption).
