@@ -20,6 +20,10 @@ Cloud computing is the on-demand availability of computer system resources, espe
 
 Also known as command line interface (CLI) is a text-based **user interface** used to view and manage computer files, use an API, access a database or other tools.
 
+## Configuration File
+
+A configuration file (commonly known simply as a config file) are files used to configure the parameters and initial settings for computer programs.
+
 ## CRM
 
 Stands for customer relationship management and generally relates to tools for customer support and success.
