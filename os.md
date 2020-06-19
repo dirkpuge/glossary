@@ -56,6 +56,10 @@ iOS is a mobile operating system created and developed by Apple Inc. exclusively
 
 macOS is a series of proprietary graphical operating systems developed and marketed by Apple, based on **Darwin**.
 
+## Memory Model
+
+A memory model describes the interactions of threads through memory and their shared use of the data.
+
 ## Windows
 
 Windows is a series of operating systems produced by Microsoft and released as part of its Windows NT family of operating systems.
