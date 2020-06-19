@@ -28,6 +28,10 @@ Random access memory (RAM) also known as memory is essentially your device’s s
 
 Mobile devices are portable and typically run on **[ARM processors](https://github.com/non-binary/glossary/blob/main/hardware.md#arm)**.
 
+## Processes
+
+A process is the instance of a computer program that is being executed by one or many threads.
+
 ## RISC
 
 A reduced instruction set computer, or RISC, is a computer instruction set that allows a computer's microprocessor to have fewer cycles per instruction (CPI) than a complex instruction set computer (CISC).
