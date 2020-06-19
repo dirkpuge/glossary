@@ -51,3 +51,11 @@ iOS is a mobile operating system created and developed by Apple Inc. exclusively
 ## macOS
 
 macOS is a series of proprietary graphical operating systems developed and marketed by Apple, based on **Darwin**.
+
+## Windows
+
+Windows is a series of operating systems produced by Microsoft and released as part of its Windows NT family of operating systems.
+
+## Windows NT
+
+Windows NT is a family of operating systems produced by Microsoft, the first version of which was released on July 27, 1993. It is a processor-independent, multiprocessing and multi-user operating system.
