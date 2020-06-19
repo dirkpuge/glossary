@@ -32,6 +32,10 @@ A datastore is a **repository** for persistently storing and managing collection
 
 A database is an organized collection of structured information, or data. A database not only stores data, but **makes the data accessible to users**, for example with **queries**. [More details](https://www.quora.com/What-is-the-difference-between-data-store-and-data-base/answer/Florian-Goossens).
 
+## DevOps
+
+DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
+
 ## Incident 
 
 An Incident is defined as an unplanned interruption or reduction in quality of an IT service (a Service Interruption).
@@ -48,9 +52,21 @@ Operations is a term that encompasses all the activities involved in the setup, 
 
 It refers to a system for **moving data from one system** to another.
 
+## Monitoring Service
+
+Monitoring as a service (MaaS) is one of many cloud computing delivery models under anything as a service (XaaS). It is a framework that facilitates the deployment of monitoring functionalities for various other services and applications within the cloud.
+
+## Open Source
+
+Denoting software for which the original source code is made freely available and may be redistributed and modified.
+
 ## Reliable (software systems)
 
 Ability of a computer program to perform its intended functions and operations in a system's **environment**, without experiencing **failure**.
+
+## SaaS
+
+Acronym meaning software as a service.
 
 ## Self Hosting
 
