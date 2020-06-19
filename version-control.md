@@ -8,7 +8,7 @@ A branch in Git is simply a lightweight movable pointer to one of these commits.
 
 ## Commit
 
-Commits are created with the git commit command to capture the state of a project at that point in time.
+A commit in Git is created with the git commit command to capture the state of a project at that point in time.
 
 ## Git
 
@@ -17,3 +17,7 @@ Git is a distributed version control system. Every dev has a working copy of the
 ## Mercurial
 
 Mercurial is a distributed source control management tool, now outdated.
+
+## Repository
+
+A repository in Git is the file/folder location where you can keep your project source code and other files. If the project file is placed on local system, it is local repository. If the project file is placed on remote system, it is remote repository
