@@ -2,11 +2,11 @@
 
 ## Architecture
 
-The **CPU** architecture defines the basic **instruction** set, as well as the exception and **memory models** that are relied upon by the **operating system** and **hypervisor**.
+The **CPU** architecture defines the basic **[instruction set](https://github.com/non-binary/glossary/blob/main/hardware.md#instruction-set)**, as well as the exception and **[memory models](https://github.com/non-binary/glossary/blob/main/os.md#memory-model)** that are relied upon by the **[operating system](https://github.com/non-binary/glossary/blob/main/os.md#operating-system)** and **[hypervisor](https://github.com/non-binary/glossary/blob/main/os.md#hypervisor)**.
 
 ## ARM
 
-ARM is a family of reduced **instruction set** computing (**RISC**) **architectures** for computer processors, configured for various environments.
+ARM is a family of reduced **[instruction set](https://github.com/non-binary/glossary/blob/main/hardware.md#instruction-set)** computing (**[RISC](https://github.com/non-binary/glossary/blob/main/hardware.md#risc)**) **[architectures](https://github.com/non-binary/glossary/blob/main/hardware.md#architecture)** for computer processors, configured for various environments.
 
 ## CPU
 
@@ -14,7 +14,7 @@ CPUs, or Central Processing Units, are responsible for processing and executing 
 
 ## I/O
 
-Any movement of data between **disk** and **memory**.
+Any movement of data between **[disk](https://github.com/non-binary/glossary/blob/main/hardware.md#storage)** and **[memory](https://github.com/non-binary/glossary/blob/main/hardware.md#memory)**.
 
 ## Instruction Set
 
@@ -26,7 +26,7 @@ Random access memory (RAM) also known as memory is essentially your device’s s
 
 ## Mobile Devices
 
-Mobile devices are portable and typically run on **ARM processors**.
+Mobile devices are portable and typically run on **[ARM processors](https://github.com/non-binary/glossary/blob/main/hardware.md#arm)**.
 
 ## RISC
 
@@ -38,8 +38,8 @@ A server is a computer that is dedicated to managing network resources.
 
 ## Storage
 
-Storage also known as long term storage is where your pictures, documents and applications are stored.
+Also referred to as Disk. Storage also known as long term storage is where your pictures, documents and applications are stored.
 
 ## x86
 
-x86 is a family of **instruction set** **architectures** initially developed by Intel based on the Intel 8086 microprocessor. The 8086 was introduced in 1978 as a fully 16-bit extension of Intel's 8-bit 8080 microprocessor, with memory segmentation as a solution for addressing more memory than can be covered by a plain 16-bit address.
+x86 is a family of **[instruction set](https://github.com/non-binary/glossary/blob/main/hardware.md#instruction-set)** **[architectures](https://github.com/non-binary/glossary/blob/main/hardware.md#architecture)** initially developed by Intel based on the Intel 8086 microprocessor. The 8086 was introduced in 1978 as a fully 16-bit extension of Intel's 8-bit 8080 microprocessor, with memory segmentation as a solution for addressing more memory than can be covered by a plain 16-bit address.
