@@ -2,15 +2,15 @@
 
 ## AWS
 
-[Amazon Web Services](https://aws.amazon.com/) provides on-demand **cloud computing** platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
+[Amazon Web Services](https://aws.amazon.com/) provides on-demand **[cloud computing](https://github.com/non-binary/glossary/blob/main/misc.md#cloud-computing)** platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
 
 ## Azure
 
-[Microsoft Azure](https://azure.microsoft.com/en-ca/), commonly referred to as Azure, is a **cloud computing** service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
+[Microsoft Azure](https://azure.microsoft.com/en-ca/), commonly referred to as Azure, is a **[cloud computing](https://github.com/non-binary/glossary/blob/main/misc.md#cloud-computing)** service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
 
 ## Bitbucket
 
-[Bitbucket](https://bitbucket.org/) is a web-based **version control** repository hosting service owned by Atlassian, for source code and development projects that use either **Mercurial** or **Git** revision control systems. Main competitors are GitHub and GitLab.
+[Bitbucket](https://bitbucket.org/) is a web-based **[version control](https://github.com/non-binary/glossary/blob/main/version-control.md#version-control)** repository hosting service owned by Atlassian, for source code and development projects that use either **[Mercurial](https://github.com/non-binary/glossary/blob/main/version-control.md#mercurial)** or **[Git](https://github.com/non-binary/glossary/blob/main/version-control.md#git)** (preferred) revision control systems. Main competitors are GitHub and GitLab.
 
 ## Bitrise
 
@@ -18,7 +18,7 @@
 
 ## CircleCI
 
-[CircleCI](https://circleci.com) is a continuous integration and delivery platform for Linux, macOS, and Android, in the cloud or **self-hosted**. Main competitors are Bitrise.
+[CircleCI](https://circleci.com) is a continuous integration and delivery platform for Linux, macOS, and Android, in the cloud or **[self-hosted](https://github.com/non-binary/glossary/blob/main/misc.md#self-hosting)**. Main competitors are Bitrise.
 
 ## Codeacademy
 
@@ -30,7 +30,7 @@
 
 ## DataDog
 
-[Datadog](https://www.datadoghq.com/) is a **monitoring service** for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a **SaaS-based** data analytics platform.
+[Datadog](https://www.datadoghq.com/) is a **[monitoring service](https://github.com/non-binary/glossary/blob/main/misc.md#monitoring-service)** for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a **[SaaS-based](https://github.com/non-binary/glossary/blob/main/misc.md#saas)** data analytics platform.
 
 ## Digital Ocean
 
@@ -42,7 +42,7 @@
 
 ## GitLab
 
-[GitLab](https://gitlab.com) is a web-based **DevOps** lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration/continuous deployment pipeline features, using an **open-source** **license**. Main competitors are GitHub and BitBucket.
+[GitLab](https://gitlab.com) is a web-based **[DevOps](https://github.com/non-binary/glossary/blob/main/misc.md#devops)** lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration/continuous deployment pipeline features, using an **[open-source](https://github.com/non-binary/glossary/blob/main/misc.md#open-source)** license. Main competitors are GitHub and BitBucket.
 
 ## Grafana
 
@@ -54,7 +54,7 @@
 
 ## Heroku
 
-[Heroku](https://heroku.com) is a **cloud platform** as a service supporting many programming languages.
+[Heroku](https://heroku.com) is a **[cloud platform](https://github.com/non-binary/glossary/blob/main/misc.md#cloud-computing)** as a service supporting many programming languages.
 
 ## Intercom
 
@@ -62,19 +62,19 @@
 
 ## JIRA
 
-[Jira](https://www.atlassian.com/software/jira) is a proprietary issue tracking product developed by Atlassian that allows bug tracking and **agile project management**.
+[Jira](https://www.atlassian.com/software/jira) is a proprietary issue tracking product developed by Atlassian that allows bug tracking and **[agile project management](https://github.com/non-binary/glossary/blob/main/misc.md#agile)**.
 
 ## Now.sh
 
-[Now.sh](https://vercel.com/) is a realtime global deployments platform. It provides an easy way to deploy websites, applications and services built and powered with **JavaScript (Node.js)** or **Docker**. It is highly **reliable** and **scalable**.
+[Now.sh](https://vercel.com/) is a realtime global deployments platform. It provides an easy way to deploy websites, applications and services built and powered with **[JavaScript (Node.js)](https://github.com/non-binary/glossary/blob/main/languages.md#javascript-nodejs)** or **[Docker](https://github.com/non-binary/glossary/blob/main/tools.md#docker)**. It is highly **[reliable](https://github.com/non-binary/glossary/blob/main/misc.md#reliable-software-systems)** and **[scalable](https://github.com/non-binary/glossary/blob/main/misc.md#scalable-software-systems)**.
 
 ## PagerDuty
 
-[PagerDuty](https://www.pagerduty.com/) is an **incident** management platform that provides reliable notifications, automatic escalations, on-call scheduling, and other functionality to help teams detect and fix infrastructure problems quickly.
+[PagerDuty](https://www.pagerduty.com/) is an **[incident](https://github.com/non-binary/glossary/blob/main/misc.md#incident)** management platform that provides reliable notifications, automatic escalations, on-call scheduling, and other functionality to help teams detect and fix infrastructure problems quickly.
 
 ## PaperTrail
 
-[Papertrail](https://www.papertrail.com/) is an add-on providing hosted **log aggregation** and management, including **real-time tail**, search, and alerts on application and platform logs.
+[Papertrail](https://www.papertrail.com/) is an add-on providing hosted log aggregation and management, including real-time tail, search, and alerts on application and platform logs.
 
 ## Slack
 
@@ -86,7 +86,7 @@
 
 ## StatusPage.io
 
-[Statuspage](https://www.atlassian.com/software/statuspage) is the communication piece of your **incident** management process. Keep users in the loop from 'investigating' through 'resolved'. Statuspage integrates with your favorite monitoring, alerting, chat, and help desk tools for efficient response every time.
+[Statuspage](https://www.atlassian.com/software/statuspage) is the communication piece of your **[incident](https://github.com/non-binary/glossary/blob/main/misc.md#incident)** management process. Keep users in the loop from 'investigating' through 'resolved'. Statuspage integrates with your favorite monitoring, alerting, chat, and help desk tools for efficient response every time.
 
 ## Stripe
 
@@ -94,4 +94,4 @@
 
 ## Zendesk
 
-[Zendesk](https://zendesk.com) is a service-first **CRM** company that builds software designed to improve customer relationships. Basically a helpdesk tool.
+[Zendesk](https://zendesk.com) is a service-first **[CRM](https://github.com/non-binary/glossary/blob/main/misc.md#crm)** company that builds software designed to improve customer relationships. Basically a helpdesk tool.
