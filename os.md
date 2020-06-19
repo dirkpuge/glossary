@@ -16,6 +16,10 @@ Debian, also known as Debian GNU/Linux, is a Linux distribution composed of free
 
 A Linux distribution (often abbreviated as distro) is an operating system made from a software collection that is based upon the **Linux kernel** and, often, a **package management system**.
 
+## Dual Booting
+
+The process of accessing two operating systems on a single computer.
+
 ## Hypervisor
 
 A hypervisor is a process that separates a computer's operating system and applications from the underlying physical hardware.
