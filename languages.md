@@ -8,6 +8,10 @@ Bash is a **Unix** **shell** and command language written by Brian Fox for the G
 
 Dart is a client-optimized programming language for apps on multiple platforms. Used for **Flutter**.
 
+## Data Serialization Language
+
+Data serialization is the process of converting data objects present in complex data structures into a byte stream for storage, transfer and distribution purposes.
+
 ## Elixir (Erlang)
 
 Elixir is a **functional**, **concurrent**, general-purpose programming language that runs on the Erlang **virtual machine**.
