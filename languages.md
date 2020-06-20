@@ -64,7 +64,7 @@ A Java virtual machine is a **[virtual machine](https://github.com/non-binary/gl
 
 ## Kotlin
 
-Kotlin is a cross-platform, **statically typed**, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the **[JVM](https://github.com/non-binary/glossary/blob/main/languages.md#jvm)** version of its standard library depends on the Java Class Library, but type inference allows its **[syntax](https://github.com/non-binary/glossary/blob/main/languages.md#syntax)** to be more concise.
+Kotlin is a cross-platform, **[statically typed](https://github.com/non-binary/glossary/blob/main/languages.md#statically-typed)**, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the **[JVM](https://github.com/non-binary/glossary/blob/main/languages.md#jvm)** version of its standard library depends on the Java Class Library, but type inference allows its **[syntax](https://github.com/non-binary/glossary/blob/main/languages.md#syntax)** to be more concise.
 
 ## Low-level programming language
 
