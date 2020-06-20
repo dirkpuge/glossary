@@ -2,14 +2,14 @@
 
 Glossary of tools, and words from the tech industry.
 
-* [File Types](./file-types.md)
-* [Frameworks](./frameworks.md)
+* [File Types](./file-types.md) (WIP)
+* [Frameworks](./frameworks.md) (WIP)
 * [Hardware](./hardware.md)
 * [Languages](./languages.md)
-* [Miscellaneous](./misc.md)
-* [Networking](./networking.md)
+* [Miscellaneous](./misc.md) (WIP)
+* [Networking](./networking.md) (WIP)
 * [Operating Systems](./os.md)
 * [Platforms](./platforms.md)
 * [Roles](./roles.md)
-* [Tools](./tools.md)
-* [Version Control](./version-control.md)
+* [Tools](./tools.md) (WIP)
+* [Version Control](./version-control.md) (WIP)
