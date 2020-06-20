@@ -2,11 +2,11 @@
 
 ## Bash
 
-Bash is a **Unix** **shell** and command language written by Brian Fox for the GNU Project as a free software replacement for the **Bourne shell**.
+Bash is a **[Unix](https://github.com/non-binary/glossary/blob/main/os.md#unix)** **[shell](https://github.com/non-binary/glossary/blob/main/os.md#shell)** and command language written by Brian Fox for the GNU Project as a free software replacement for the **[Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell)** (outdated).
 
 ## Dart
 
-Dart is a client-optimized programming language for apps on multiple platforms. Used for **Flutter**.
+Dart is a client-optimized programming language for apps on multiple platforms. Used for **[Flutter](https://github.com/non-binary/glossary/blob/main/frameworks.md#flutter)**.
 
 ## Data Serialization Language
 
@@ -14,11 +14,11 @@ Data serialization is the process of converting data objects present in complex 
 
 ## Elixir (Erlang)
 
-Elixir is a **functional**, **concurrent**, general-purpose programming language that runs on the Erlang **virtual machine**.
+Elixir is a **functional**, **concurrent**, general-purpose programming language that runs on the Erlang **[virtual machine](https://github.com/non-binary/glossary/blob/main/os.md#virtual-machine)**.
 
 ## Go
 
-Go is a **statically** typed, **compiled programming language** designed at Google.
+Go is a **statically typed**, **compiled programming language** designed at Google.
 
 ## HTML/CSS
 
@@ -53,6 +53,10 @@ Ruby is an **interpreted**, **high-level**, **general-purpose** programming lang
 ## Rust
 
 Rust is a **multi-paradigm** programming language focused on performance and safety, especially safe **concurrency**.
+
+## Statically Typed
+
+A language is statically-typed if the type of a variable is known at compile-time instead of at run-time.
 
 ## Swift
 
