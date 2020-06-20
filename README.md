@@ -3,6 +3,7 @@
 Glossary of tools, and words from the tech industry.
 
 * [File Types](./file-types.md)
+* [Frameworks](./frameworks.md)
 * [Hardware](./hardware.md)
 * [Languages](./languages.md)
 * [Miscellaneous](./misc.md)
