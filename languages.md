@@ -26,7 +26,7 @@ Data serialization is the process of converting data objects present in complex 
 
 ## Elixir (Erlang)
 
-Elixir is a **functional**, **concurrent**, general-purpose programming language that runs on the Erlang **[virtual machine](https://github.com/non-binary/glossary/blob/main/os.md#virtual-machine)**.
+Elixir is a **[functional](https://github.com/non-binary/glossary/blob/main/languages.md#functional-programming-language)**, **[concurrent](https://github.com/non-binary/glossary/blob/main/languages.md#concurrentconcurrency)**, general-purpose programming language that runs on the Erlang **[virtual machine](https://github.com/non-binary/glossary/blob/main/os.md#virtual-machine)**.
 
 ## Functional Programming Language
 
@@ -34,7 +34,7 @@ A functional programming language is a programming paradigm where programs are c
 
 ## Go
 
-Go is a **[statically typed](https://github.com/non-binary/glossary/blob/main/languages.md#statically-typed)**, **compiled programming language** designed at Google.
+Go is a **[statically typed](https://github.com/non-binary/glossary/blob/main/languages.md#statically-typed)**, **[compiled programming language](https://github.com/non-binary/glossary/blob/main/languages.md#compiled-programming-language)** designed by Google.
 
 ## High-level programming language
 
@@ -60,11 +60,11 @@ Node.js is an **[open-source](https://github.com/non-binary/glossary/blob/main/m
 
 ## JVM
 
-A Java virtual machine is a **[virtual machine](https://github.com/non-binary/glossary/blob/main/os.md#virtual-machine)** that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java **bytecode**.
+A Java virtual machine is a **[virtual machine](https://github.com/non-binary/glossary/blob/main/os.md#virtual-machine)** that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java **[bytecode](https://github.com/non-binary/glossary/blob/main/languages.md#bytecode)**.
 
 ## Kotlin
 
-Kotlin is a cross-platform, **statically typed**, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the **JVM** version of its standard library depends on the Java Class Library, but type inference allows its **[syntax](https://github.com/non-binary/glossary/blob/main/languages.md#syntax)** to be more concise.
+Kotlin is a cross-platform, **statically typed**, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the **[JVM](https://github.com/non-binary/glossary/blob/main/languages.md#jvm)** version of its standard library depends on the Java Class Library, but type inference allows its **[syntax](https://github.com/non-binary/glossary/blob/main/languages.md#syntax)** to be more concise.
 
 ## Low-level programming language
 
@@ -76,23 +76,23 @@ Multi-paradigm programming languages can be object-oriented and functional depen
 
 ## Objective-C
 
-Objective-C is a general-purpose, **object-oriented** programming language that adds Smalltalk-style messaging to the C programming language.
+Objective-C is a general-purpose, **[object-oriented](https://github.com/non-binary/glossary/blob/main/languages.md#object-oriented)** programming language that adds Smalltalk-style messaging to the C programming language.
 
 ## Object-oriented
 
-Object-oriented programming is a programming paradigm based on the concept of "objects", which can contain data, in the form of fields, and code, in the form of procedures. Opposed to **functional programming**.
+Object-oriented programming is a programming paradigm based on the concept of "objects", which can contain data, in the form of fields, and code, in the form of procedures. Opposed to **[functional programming](https://github.com/non-binary/glossary/blob/main/languages.md#functional-programming-language)**.
 
 ## Python
 
-Python is an **interpreted**, **high-level**, general-purpose programming language.
+Python is an **[interpreted](https://github.com/non-binary/glossary/blob/main/languages.md#interpreted)**, **[high-level](https://github.com/non-binary/glossary/blob/main/languages.md#high-level-programming-language)**, general-purpose programming language.
 
 ## Ruby
 
-Ruby is an **interpreted**, **high-level**, general-purpose programming language.
+Ruby is an **[interpreted](https://github.com/non-binary/glossary/blob/main/languages.md#interpreted)**, **[high-level](https://github.com/non-binary/glossary/blob/main/languages.md#high-level-programming-language)**, general-purpose programming language.
 
 ## Rust
 
-Rust is a **multi-paradigm** programming language focused on performance and safety, especially safe **concurrency**.
+Rust is a **[multi-paradigm](https://github.com/non-binary/glossary/blob/main/languages.md#multi-paradigm)** programming language focused on performance and safety, especially safe **[concurrency](https://github.com/non-binary/glossary/blob/main/languages.md#concurrentconcurrency)**.
 
 ## Statically Typed
 
@@ -100,7 +100,7 @@ A language is statically-typed if the type of a variable is known at compile-tim
 
 ## Swift
 
-Swift is a general-purpose, **multi-paradigm**, **compiled** programming language developed by Apple.
+Swift is a general-purpose, **[multi-paradigm](https://github.com/non-binary/glossary/blob/main/languages.md#multi-paradigm)**, **[compiled](https://github.com/non-binary/glossary/blob/main/languages.md#compiled-programming-language)** programming language developed by Apple.
 
 ## Syntax
 
