@@ -56,6 +56,10 @@ A package manager or package-management system is a collection of software tools
 
 Also known as a scheduler. It selects processes from the queue and loads them into memory for execution. Process loads into the memory for CPU scheduling. The primary objective of the job scheduler is to provide a balanced mix of jobs, such as **[I/O](https://github.com/non-binary/glossary/blob/main/hardware.md#io)** bound and processor bound. It also controls the degree of multiprogramming.
 
+## Shell
+
+A shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface (CLI)
+
 ## Ubuntu
 
 Ubuntu is a **[Linux distribution](https://github.com/non-binary/glossary/blob/main/os.md#distribution)** based on **[Debian](https://github.com/non-binary/glossary/blob/main/os.md#debian)** mostly composed of free and **[open-source](https://github.com/non-binary/glossary/blob/main/misc.md#open-source)** software.
