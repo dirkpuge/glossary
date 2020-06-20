@@ -8,6 +8,14 @@ Bash is a **[Unix](https://github.com/non-binary/glossary/blob/main/os.md#unix)*
 
 Unlike human-readable source code, bytecodes are compact numeric codes, constants, and references (normally numeric addresses) that encode the result of compiler parsing and performing semantic analysis of things like type, scope, and nesting depths of program objects.
 
+## C
+
+C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a **[static type](https://github.com/non-binary/glossary/blob/main/languages.md#statically-typed)** system.
+
+## C++
+
+C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".
+
 ## Compiled Programming Language
 
 A compiled language is a programming language whose implementations are typically compilers, and not interpreters.
