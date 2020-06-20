@@ -24,6 +24,10 @@ Also known as command line interface (CLI) is a text-based **user interface** us
 
 A configuration file (commonly known simply as a config file) are files used to configure the parameters and initial settings for computer programs.
 
+## Containers/Containerization
+
+A container is a standard unit of software that packages up code and all its **dependencies** so the application runs quickly and reliably from one computing environment to another.
+
 ## CRM
 
 Stands for customer relationship management and generally relates to tools for customer support and success.
@@ -91,6 +95,10 @@ It refers to transforming data from one format or type to another. **CSV** -> **
 ## User Interface
 
 The means by which the user and a computer system interact, in particular the use of input devices.
+
+## Virtualization
+
+Virtualization refers to the act of creating a virtual version of something, including virtual computer hardware platforms, storage devices, and computer network resources. See **[Virtual Machine](https://github.com/non-binary/glossary/blob/main/os.md#virtual-machine)**.
 
 ## Web
 
