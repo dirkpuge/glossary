@@ -11,4 +11,4 @@ Glossary of tools, and words from the tech industry.
 * [Platforms](./platforms.md)
 * [Roles](./roles.md)
 * [Tools](./tools.md)
-* [Version Control](./version-control.md) (WIP)
+* [Version Control](./version-control.md)
