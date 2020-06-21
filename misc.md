@@ -6,7 +6,7 @@ Agile software development comprises various approaches to software development 
 
 ## API
 
-The term API is an acronym, and it stands for “Application Programming Interface.” It is a **transportation layer** for creating requests and moving data.
+The term API is an acronym, and it stands for “Application Programming Interface.” It is a **[transportation layer](https://github.com/non-binary/glossary/blob/main/networking.md#transportation-layer)** for creating requests and moving data.
 
 ## Business Rule Implementation Logic
 
@@ -18,7 +18,7 @@ Cloud computing is the on-demand availability of computer system resources, espe
 
 ## Command Line Tool
 
-Also known as command line interface (CLI) is a text-based **user interface** used to view and manage computer files, use an API, access a database or other tools.
+Also known as command line interface (CLI) is a text-based **[user interface](https://github.com/non-binary/glossary/blob/main/misc.md#user-interface)** used to view and manage computer files, use an API, access a database or other tools.
 
 ## Configuration File
 
@@ -26,7 +26,7 @@ A configuration file (commonly known simply as a config file) are files used to 
 
 ## Containers/Containerization
 
-A container is a standard unit of software that packages up code and all its **dependencies** so the application runs quickly and reliably from one computing environment to another.
+A container is a standard unit of software that packages up code and all its **[dependencies](https://github.com/non-binary/glossary/blob/main/misc.md#dependency)** so the application runs quickly and reliably from one computing environment to another.
 
 ## CRM
 
@@ -34,11 +34,15 @@ Stands for customer relationship management and generally relates to tools for c
 
 ## Data Store
 
-A datastore is a **repository** for persistently storing and managing collections of data. A datastore is just to store data, for example multiple **CSV files**. [More details](https://www.quora.com/What-is-the-difference-between-data-store-and-data-base/answer/Florian-Goossens).
+A datastore is a **[repository](https://github.com/non-binary/glossary/blob/main/version-control.md#repository)** for persistently storing and managing collections of data. A datastore is just to store data, for example multiple **[CSV files](https://github.com/non-binary/glossary/blob/main/file-types.md#csv)**. [More details](https://www.quora.com/What-is-the-difference-between-data-store-and-data-base/answer/Florian-Goossens).
 
 ## Databases
 
-A database is an organized collection of structured information, or data. A database not only stores data, but **makes the data accessible to users**, for example with **queries**. [More details](https://www.quora.com/What-is-the-difference-between-data-store-and-data-base/answer/Florian-Goossens).
+A database is an organized collection of structured information, or data. A database not only stores data, but makes the data accessible to users, for example with **queries**. [More details](https://www.quora.com/What-is-the-difference-between-data-store-and-data-base/answer/Florian-Goossens).
+
+## Dependency
+
+Dependency is a broad software engineering term used to refer when a piece of software relies on another one.
 
 ## DevOps
 
@@ -71,6 +75,10 @@ Operations is a term that encompasses all the activities involved in the setup, 
 ## Open Source
 
 Denoting software for which the original source code is made freely available and may be redistributed and modified.
+
+## Query (Database)
+
+A database query is a request for data from a database. Usually the request is to retrieve data; however, data can also be manipulated using queries.
 
 ## Reliable (software systems)
 
