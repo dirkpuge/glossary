@@ -38,11 +38,11 @@ A datastore is a **[repository](https://github.com/non-binary/glossary/blob/main
 
 ## Databases
 
-A database is an organized collection of structured information, or data. A database not only stores data, but makes the data accessible to users, for example with **queries**. [More details](https://www.quora.com/What-is-the-difference-between-data-store-and-data-base/answer/Florian-Goossens).
+A database is an organized collection of structured information, or data. A database not only stores data, but makes the data accessible to users, for example with **[queries](https://github.com/non-binary/glossary/blob/main/misc.md#query-database)**. [More details](https://www.quora.com/What-is-the-difference-between-data-store-and-data-base/answer/Florian-Goossens).
 
 ## Dependency
 
-Dependency is a broad software engineering term used to refer when a piece of software relies on another one.
+Dependency is a term used to refer when a piece of software relies on another one.
 
 ## DevOps
 
@@ -58,11 +58,11 @@ An Incident is defined as an unplanned interruption or reduction in quality of a
 
 ## Infrastructure
 
-Infrastructure is the foundation or framework that supports a system or organization. For example, the system of **hardware**, **software**, facilities and service components that support the delivery of business systems and IT-enabled processes.
+Infrastructure is the foundation or framework that supports a system or organization. For example, the system of hardware, software, facilities and service components that support the delivery of business systems and IT-enabled processes.
 
 ## Data Pipelines
 
-It refers to a system for **moving data from one system** to another.
+It refers to a system for moving data from one system to another.
 
 ## Monitoring Service
 
@@ -82,7 +82,7 @@ A database query is a request for data from a database. Usually the request is t
 
 ## Reliable (software systems)
 
-Ability of a computer program to perform its intended functions and operations in a system's **environment**, without experiencing **failure**.
+Ability of a computer program to perform its intended functions and operations in a system's environment, without experiencing failure.
 
 ## SaaS
 
@@ -98,7 +98,7 @@ Scalable hardware or software can expand to support increasing workloads. Scalab
 
 ## Transform Data
 
-It refers to transforming data from one format or type to another. **CSV** -> **JSON**
+It refers to transforming data from one format or type to another. **[CSV](https://github.com/non-binary/glossary/blob/main/file-types.md#csv)** -> **[JSON](https://github.com/non-binary/glossary/blob/main/file-types.md#json)**
 
 ## User Interface
 
@@ -110,7 +110,7 @@ Virtualization refers to the act of creating a virtual version of something, inc
 
 ## Web
 
-The World Wide Web (WWW) is an information system where documents and other web resources are identified by Uniform Resource Locators (URLs, such as https://www.example.com/), which may be interlinked by **hypertext**, and are accessible over the Internet.
+The World Wide Web (WWW) is an information system where documents and other web resources are identified by Uniform Resource Locators (URLs, such as https://www.example.com/), which may be interlinked by hypertext, and are accessible over the Internet.
 
 ## Web App
 
