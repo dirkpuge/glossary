@@ -6,7 +6,7 @@ Agile software development comprises various approaches to software development 
 
 ## API
 
-The term API is an acronym, and it stands for “Application Programming Interface.” It is a **[transportation layer](https://github.com/non-binary/glossary/blob/main/networking.md#transportation-layer)** for creating requests and moving data.
+The term API is an acronym, and it stands for “Application Programming Interface.” It is a transportation layer for creating requests and moving data.
 
 ## Business Rule Implementation Logic
 
