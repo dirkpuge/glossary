@@ -118,4 +118,4 @@ A web application is a computer program that utilizes web browsers and web techn
 
 ## Web Services
 
-A web service is a method of communication between two devices over a network.
+A web service is a method of communication between two devices over a network. Such as an API.
