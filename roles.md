@@ -44,7 +44,7 @@ An iOS engineer is responsible for developing applications for **[mobile devices
 
 An Android engineer is responsible for developing applications for **[mobile devices](https://github.com/non-binary/glossary/blob/main/hardware.md#mobile-devices)** powered by Google's **[Android operating system](https://github.com/non-binary/glossary/blob/main/os.md#android)**. Typically this means being the front-end and back-end engineer for the Android platform.
 
-## UI Developer/Engineer
+### UI Developer/Engineer
 
 A user interface engineer is kind of like a front-end web engineer but they are not necessarily working with web products. They could be working on user interfaces for **[web](https://github.com/non-binary/glossary/blob/main/misc.md#web-app)**, **[Android](https://github.com/non-binary/glossary/blob/main/os.md#android)**, **[iOS](https://github.com/non-binary/glossary/blob/main/os.md#ios)**, or interfaces for **[APIs](https://github.com/non-binary/glossary/blob/main/misc.md#api)** and **[command line tools](https://github.com/non-binary/glossary/blob/main/misc.md#command-line-tool)** that customers interact with. Think of it as working on how customers interact with their data.
 
