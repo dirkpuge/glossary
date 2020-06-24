@@ -58,7 +58,7 @@ Also known as a scheduler. It selects processes from the queue and loads them in
 
 ## Shell
 
-A shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface (CLI)
+A shell is a user interface for access to an operating system's services. In general, operating system shells use a command-line interface (CLI).
 
 ## Ubuntu
 
