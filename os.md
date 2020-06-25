@@ -12,7 +12,7 @@ Darwin is an **[open-source](https://github.com/non-binary/glossary/blob/main/mi
 
 Debian, also known as Debian GNU/Linux, is a Linux distribution composed of free and open-source software.
 
-## Distribution
+## Distribution (Linux)
 
 A Linux distribution (often abbreviated as distro) is an operating system made from a software collection that is based upon the **[Linux kernel](https://github.com/non-binary/glossary/blob/main/os.md#linux-kernel)** and, often, a **[package management system](https://github.com/non-binary/glossary/blob/main/os.md#package-manager)**.
 
