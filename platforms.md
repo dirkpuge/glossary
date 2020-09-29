@@ -2,7 +2,7 @@
 
 ## AWS
 
-[Amazon Web Services](https://aws.amazon.com/) provides on-demand **[cloud computing](https://github.com/non-binary/glossary/blob/main/misc.md#cloud-computing)** platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
+[Amazon Web Services](https://aws.amazon.com/) provides on-demand **[cloud computing](https://github.com/non-binary/glossary/blob/main/misc.md#cloud-computing)** platforms and APIs to individuals, companies, and governments on a metered pay-as-you-go basis.
 
 ## Azure
 
